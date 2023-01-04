@@ -4,7 +4,7 @@
 https://seokjuna.notion.site/14-API-1-d0a6aad78d6340a3a79647c2302ce80d<br>
 https://seokjuna.notion.site/14-API-2-adf4838f41c54c658bb581568aa42194<br>
 
-React:<br>
+React:
 - UI: NewsItem, NewsList, Categories<br>
 - yarn: axios, styled-components, react-router-dom<br>
 - function: useState, useEffect<br>
