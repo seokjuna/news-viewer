@@ -8,7 +8,7 @@ React:<br>
 - UI: NewsItem, NewsList, Categories<br>
 - yarn: axios, styled-components, react-router-dom<br>
 - function: useState, useEffect<br>
-
+<br>
 <img width="976" alt="뉴스 홈" src="https://user-images.githubusercontent.com/102382351/194831197-05f225b1-0eb8-4ede-990b-76fe6285de8f.png">
 - newsapi API를 통해 뉴스를 불러오기<br/>
 - NewsItem 컴포넌트에서 각 뉴스 정보를 보여주고, NewsList 컴포넌트에서 API를 요청. 뉴스 데이터가 들어 있는 배열을 컴포넌트 배열로 변환하여 렌더링<br/>
