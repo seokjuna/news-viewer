@@ -7,7 +7,8 @@
 <img width="973" alt="뉴스 스포츠탭" src="https://user-images.githubusercontent.com/102382351/194831337-9b9ccde4-62e2-45df-86f6-b112d999a8af.png">
 - NewsList 컴포넌트에서 props로 받아온 category에 따라 카테고리를 지정하여 API를 요청<br/>
 - 리액트 라우터를 적용하여 카테고리 선택에 따라 경로를 달리함
-<br/>
+<br>
+<br>
 React:<br>
 - UI: NewsItem, NewsList, Categories<br>
 - yarn: axios, styled-components, react-router-dom<br>
